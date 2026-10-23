@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+# Downloaded word list (re-create with: python fetch_words.py)
+words.txt
